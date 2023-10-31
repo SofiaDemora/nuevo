@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(171, 207, 244, 0.945);
+    margin-left:80px;
+    margin-right:80px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    font-size:120%;
+}
+
+header{
+    width: 75%;
+    text-align: center;
+}
+
+#img{
+    width: 200px;
+    height: auto;
+}
+
+.article{
+    margin-right: 600px;
+}
+
+aside{
+    text-align: center;
+    float: right;
+    width: 15%;
+    background-color:beige;
+    padding: 15px;
+    
+}
+
+footer{
+    float: right;
+}
+
