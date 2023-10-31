@@ -9,6 +9,7 @@ body{
 
 header{
     width: 75%;
+    font-size:140%;
     text-align: center;
 }
 
@@ -23,6 +24,7 @@ header{
 }
 .article{
     margin-right: 600px;
+    
 }
 
 aside{
@@ -31,6 +33,7 @@ aside{
     width: 15%;
     background-color:beige;
     padding: 15px;
+    margin-left:100px;
     
 }
 
